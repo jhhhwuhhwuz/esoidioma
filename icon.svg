@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<defs>
+<linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#ff6a2a"/><stop offset=".55" stop-color="#992f1d"/><stop offset="1" stop-color="#3f1f18"/></linearGradient>
+<radialGradient id="gl" cx=".22" cy=".85" r=".6"><stop offset="0" stop-color="#ffa86d" stop-opacity=".35"/><stop offset="1" stop-color="#ffa86d" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="512" height="512" rx="112" fill="url(#bg)"/>
+<rect width="512" height="512" rx="112" fill="url(#gl)"/>
+<g transform="translate(256 256) scale(1) translate(-256 -256)">
+<path d="M178 230V304C178 334 214 352 256 352S334 334 334 304V230L256 262z" fill="#ffffff"/>
+<path d="M256 134L402 190Q416 196 402 202L270 252Q256 257 242 252L110 202Q96 196 110 190Z" fill="#ffffff"/>
+<path d="M190 250Q256 280 322 250" fill="none" stroke="#c4401d" stroke-width="13" stroke-linecap="round" opacity=".9"/>
+<path d="M142 214V292" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+<path d="M130 292H154L162 338Q142 346 124 338Z" fill="#ffffff" stroke="#ffffff" stroke-width="6" stroke-linejoin="round"/>
+</g></svg>
